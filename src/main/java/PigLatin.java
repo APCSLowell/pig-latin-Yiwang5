@@ -10,7 +10,7 @@ public void setup()
 
 public void draw()
 {
-    // not used 
+    // not used  
 }
 
 public int findFirstVowel(String sWord)
